@@ -14,7 +14,7 @@ El-Dabaa
 ### Soft skills
 
 ### Hard skills
-- Puthon
+- Python
 - Smartplant 3D
 - PID
 - Autocad
